@@ -173,6 +173,7 @@ CContext
 CDeclaration
 CElems
 CENTERALIGN
+cer
 certlm
 certmgr
 cfp
@@ -344,6 +345,7 @@ DEVMODE
 DEVMODEW
 devpal
 DIALOGEX
+digicert
 dimm
 DISABLEASACTIONKEY
 DISABLENOSCROLL
@@ -681,6 +683,7 @@ IGo
 iid
 Iindex
 Ijwhost
+ILD
 IMAGEHLP
 IMAGERESIZERCONTEXTMENU
 IMAGERESIZEREXT
@@ -941,6 +944,7 @@ mpmc
 MRM
 MRT
 mru
+MSAL
 msc
 mscorlib
 msctls
@@ -1199,6 +1203,7 @@ Podcasts
 POINTERID
 POINTERUPDATE
 Pokedex
+Pomodoro
 Popups
 POPUPWINDOW
 POSITIONITEM
@@ -1297,6 +1302,7 @@ QUNS
 QXZ
 RAII
 RAlt
+Rappl
 randi
 Rasterization
 Rasterize
@@ -1455,6 +1461,9 @@ SHELLDLL
 shellex
 SHELLEXECUTEINFO
 SHELLEXECUTEINFOW
+SHELLEXTENSION
+SHELLICONSIZE
+SHELLNEWVALUE
 SHFILEINFO
 SHFILEOPSTRUCT
 SHGDN
@@ -1462,6 +1471,7 @@ SHGDNF
 SHGFI
 SHGFIICON
 SHGFILARGEICON
+SHIL
 shinfo
 shlwapi
 shobjidl
@@ -1493,6 +1503,7 @@ SIDs
 siex
 sigdn
 SIGNINGSCENARIO
+signtool
 Signtool
 SINGLEKEY
 sipolicy
